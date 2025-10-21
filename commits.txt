@@ -1,0 +1,5 @@
+commit 32557c6ad32e3a4800718d796d0e00cdd3405549
+Author: Angela Orcera <aorcrui1506@g.educaand.es>
+Date:   Tue Oct 21 10:57:51 2025 +0200
+
+    primer archivo
